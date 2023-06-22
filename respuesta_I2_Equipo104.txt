@@ -4,4 +4,4 @@ Garcia Manuel
 
 a) Lo podemos actualizar mediante el comando git cual traera los datos actualizados de el creador del repositorio.
 
-B)-
+b)Si, puede realizarlos.
