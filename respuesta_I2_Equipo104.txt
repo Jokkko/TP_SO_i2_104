@@ -5,3 +5,7 @@ Garcia Manuel
 a) Lo podemos actualizar mediante el comando git cual traera los datos actualizados de el creador del repositorio.
 
 b)Si, puede realizarlos.
+
+c) Si, puede hacerlo
+
+d) No se pierden, simplemente se combinan con los del fork
