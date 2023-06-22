@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Joaquin Fernandes
 192.168.0.147
 11:20
+=======
+Manuel Garcia 
+192.168.0.120
+23:15
+>>>>>>> 05198ed72e17ef11e2d7b3c6d06512cd88c89cd0
